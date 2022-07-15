@@ -1,0 +1,13 @@
+  "dependencies": {
+    "@react-navigation/native": "^6.0.4",          -pods
+    "@react-navigation/stack": "^6.0.9",           -stack
+    "expo": "~42.0.1",
+    "expo-status-bar": "~1.0.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-gesture-handler": "^1.10.3",     -stack
+    "react-native-safe-area-context": "^3.3.2",    -pods
+    "react-native-screens": "^3.8.0",              -pods
+    "react-native-web": "~0.13.12"
+  },
